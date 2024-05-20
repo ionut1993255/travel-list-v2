@@ -32,4 +32,4 @@ This `React` application offers a seamless experience for managing your travel p
 
 ## Demo
 
-You can view a live demo of the project here: `https://travel-list-v2.netlify.app`.
+You can view a live demo of the project here: `https://travel-list-version-2.netlify.app`.
