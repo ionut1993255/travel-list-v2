@@ -12,7 +12,7 @@ This `React` application offers a seamless experience for managing your travel p
 
 - **Real-Time Notifications**: Enhances the user experience with real-time notifications using `react-hot-toast`, providing instant feedback on successful actions and updates.
 
-### Technologies Used
+## Technologies Used
 
 - **React**: Built with `React`, the leading `JavaScript` library for building user interfaces, ensuring a responsive and interactive application.
 
@@ -22,7 +22,7 @@ This `React` application offers a seamless experience for managing your travel p
 
 - **Custom Hooks**: Implements custom hooks for managing local storage and application-specific functionality, enhancing code reusability and maintainability.
 
-#### How to Use
+## How to Use
 
 1. Clone the `travel-list-v2` repository to your local machine.
 2. Navigate into the project directory using the command `cd your-project-folder`.
@@ -30,6 +30,6 @@ This `React` application offers a seamless experience for managing your travel p
 4. Run the development server using `yarn start`.
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-##### Demo
+## Demo
 
 You can view a live demo of the project here: `https://travel-list-version-2.netlify.app`.
